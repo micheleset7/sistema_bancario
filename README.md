@@ -1,9 +1,7 @@
 # PROJETO SISTEMA BANCÁRIO
 
 
-  Esse projeto faz parte do treinamento da Academia Java- Industria X da [Accenture](https://accenture.com.br/).
-
-O objetivo foi criar um sistema bancário que contenha uma API que irá  realizar as seguintes transações bancárias: Sacar, Depositar e Transferir numerário usando o Spring Boot.
+O objetivo deste projeto foi criar um sistema bancário que contenha uma API que irá  realizar as seguintes transações bancárias: Sacar, Depositar e Transferir numerário usando o Spring Boot.
 
 
 
